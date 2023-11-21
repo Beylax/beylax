@@ -1,4 +1,5 @@
-### Hi I'm Manuel Baldoni 
+<h1>Hi, I'm Manuel Baldoni</h1>
+<h2>Visit my personal website at <a href="https://manuelbaldoni.com" target="__blank">manuelbaldoni.com</a></h2>
 
 <!--
 **Beylax/beylax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
